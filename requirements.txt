@@ -1,0 +1,10 @@
+Flask
+twilio
+openai
+supabase
+python-dotenv
+APScheduler
+requests
+fuzzywuzzy
+python-Levenshtein
+duckduckgo-search
