@@ -54,6 +54,7 @@ No complex apps, no learning curve—just chat with **Vyapaar Saathi** on WhatsA
     - **OpenAI GPT-4o:** For natural language understanding and business logic.
     - **OpenAI Whisper:** For voice-to-text transcription.
     - **OpenAI Vision:** For reading bills and invoices.
+    - **OpenAI gpt-4o-mini:** For automated call to suppliers for ordering low stock items with the permission of shopkeeper.
 - **Communication:** Twilio API for WhatsApp.
 - **Location Services:** Google Maps API.
 - **Web Scraping:** DuckDuckGo Search (for event scanning).
